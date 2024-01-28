@@ -1,0 +1,16 @@
+pranay.maniar024@djsce.edu.in
+
+https://github.com/Ekkolol2367/trail24.git
+
+
+https://github.com/Ekkolol2367/bash.git
+
+git@github.com:Ekkolol2367/bash.git
+
+
+git init
+git add abc.txt
+git commit -m "third commit"
+git branch -M main
+git remote add origin https://github.com/Ekkolol2367/bash.git
+git push -u origin main
